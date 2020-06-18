@@ -11,6 +11,6 @@ $ npm install
 
 Change into the *site* directory and execute the following to start the server application locally on port **3000**:
 ```
-$ npm nodemon app.js
+$ nodemon app.js
 ```
 
