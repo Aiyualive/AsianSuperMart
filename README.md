@@ -3,6 +3,8 @@ This project was done in collaboration with [Tracy Nguyen](https://github.com/tr
 
 We have developed a website for a small shop that sells Asian goods, where one can obtain the shop information, see all the products, modify the database as the admin, add items to a shopping cart etc. The web development is based on the *node.js* platform using the *Express* framework.
 
+More information can be found in the project *report.pdf*.
+
 ## Instructions
 Install dependencies:
 ```
