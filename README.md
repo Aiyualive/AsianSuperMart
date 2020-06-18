@@ -1,14 +1,18 @@
-Tracy Nguyen: fg18837
-Aiyu Liu: cr18164
+# Asian Super Mart
+This project was done in collaboration with [Tracy Nguyen](https://github.com/tramnguyenJC) for the course [Web Technologies](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=18%2F19&unitCode=COMS32500) at University of Bristol.
 
-We will be developing a website for a small shop that sells Asian goods.
+We have developed a website for a small shop that sells Asian goods, where one can obtain the shop information, see all the products, modify the database as the admin, add items to a shopping cart etc. The web development is based on the *node.js* platform using the *Express* framework.
 
-Commands for the local prototype:
-install dependencies:
+More information can be found in the project *report.pdf*.
+
+## Instructions
+Install dependencies:
+```
 $ npm install
+```
 
-run the app:
-Either:
-$ DEBUG=site:* npm start
-Or: 
-nodemon app.js
+Change into the *site* directory and execute the following to start the server application locally on port **3000**:
+```
+$ nodemon app.js
+```
+
